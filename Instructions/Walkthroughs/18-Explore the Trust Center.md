@@ -15,7 +15,7 @@ In this walkthrough, we will access Compliance Offerings, the Service Trust Port
 
 3. In the **Global** group, click **ISO 27001**. Scroll through the information provided. Scrolling down on the page will take you to a section **Compliance offerings specifically for Azure**
 
-    **Note:** The ISO 27001 Information Security Management Standards page is typical of the type of complaince information we provide.
+    **Note:** The ISO 27001 Information Security Management Standards page is typical of the type of compliance information we provide.
 
 
 # Task 2: Access the Service Trust Portal (STP)
